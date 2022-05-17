@@ -1,0 +1,26 @@
+#container {
+    background-color: rgb(215, 246, 250);
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header {
+    background-color: rgb(175, 226, 233);
+    color: rgb(26, 26, 70);
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.recipes-list {
+    color: rgb(26, 26, 70);
+    width: 600px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.recipes-list-name {
+    font-size: 20px;
+    font-weight: bold;
+}
