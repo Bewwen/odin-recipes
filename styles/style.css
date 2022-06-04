@@ -10,7 +10,21 @@
     color: rgb(26, 26, 70);
     text-align: center;
     width: 600px;
+    padding-top: 1px;
+    padding-bottom: 1px;
     margin: 0 auto;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 22px;
 }
 
 .recipes-list {
@@ -23,4 +37,15 @@
 .recipes-list-name {
     font-size: 20px;
     font-weight: bold;
+}
+
+.recipe-instructions {
+    font-size: 16px;
+    padding: 0 20px;
+}
+
+.recipe-image {
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 40px;
 }
